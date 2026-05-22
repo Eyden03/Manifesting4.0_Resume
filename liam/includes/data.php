@@ -47,13 +47,13 @@ $skill_groups = [
 
 // Flat list for the skills page bars (highlight primary languages)
 $skills = [
-    ["name" => "Java",             "years" => 3,   "label" => "years", "max" => 5],
-    ["name" => "Python",           "years" => 3.5, "label" => "years", "max" => 5],
-    ["name" => "Go",               "years" => 1.5, "label" => "years", "max" => 5],
+    ["name" => "Java",             "years" => 4,   "label" => "years", "max" => 5],
+    ["name" => "Python",           "years" => 5, "label" => "years", "max" => 5],
+    ["name" => "Go",               "years" => 2.5, "label" => "years", "max" => 5],
     ["name" => "Kotlin",           "years" => 2,   "label" => "year",  "max" => 5],
     ["name" => "PHP",              "years" => 3.5,   "label" => "year",  "max" => 5],
     ["name" => "SQL / Oracle SQL", "years" => 2,   "label" => "years", "max" => 5],
-    ["name" => "C",                "years" => 5,   "label" => "year",  "max" => 5],
+    ["name" => "C",                "years" => 7,   "label" => "year",  "max" => 5],
     ["name" => "Spring Boot",      "years" => 1, "label" => "years", "max" => 5],
     ["name" => "FastAPI",          "years" => 2.5,   "label" => "year",  "max" => 5],
 ];
